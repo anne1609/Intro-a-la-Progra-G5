@@ -1,0 +1,5 @@
+Se pide construir un programa en Java para obtener la suma de los dígitos menores o iguales a cinco (5) de un número entero de cualquier cantidad de dígitos. 
+Ejemplo:
+Entrada: 38746
+Salida: 7
+Como extensión, hacer que el programa reciba cualquier cantidad de números y devuelva lo solicitado para cada número, terminando con cero; es decir, utilizando un ciclo y/o funciones. 
