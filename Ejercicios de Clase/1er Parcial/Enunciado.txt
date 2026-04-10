@@ -1,0 +1,6 @@
+Imprimir una pirámide de números crecientes hasta n filas
+Entrada: 3
+
+Salida:  1
+         12
+         123
