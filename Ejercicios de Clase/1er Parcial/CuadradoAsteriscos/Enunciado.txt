@@ -1,0 +1,10 @@
+Dado un número entero positivo n,  se debe generar un cuadrado de asteriscos de tamaño n×n.
+          
+Entrada:
+4
+
+Salida:
+****
+****
+****
+****

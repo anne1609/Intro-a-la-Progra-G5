@@ -1,9 +1,4 @@
 
-/*
- * 1
- * 12
- * 123
-   */
 import java.util.Scanner;
 public class PiramideSimple
 {

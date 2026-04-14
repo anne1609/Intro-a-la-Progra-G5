@@ -1,0 +1,1 @@
+Dado un número entero positivo n, donde n representa la cantidad de filas, se debe mostrar en pantalla una pirámide simple de asteriscos alineada a la izquierda.
