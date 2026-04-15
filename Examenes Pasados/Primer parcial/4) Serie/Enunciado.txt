@@ -1,0 +1,5 @@
+Generar los  primeros n términos  de la siguiente serie: 
+Ej:
+
+Entrada: 6
+Salida(s): -1 2 7 14 23 34

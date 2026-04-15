@@ -30,36 +30,35 @@ public class Cajero
         int diezC= centavos/10;
         centavos=centavos%10;
         if(doscien>0){
-         System.out.println(doscien + "billete(s) de 200Bs" );
+         System.out.println(doscien + " billete(s) de 200Bs" );
        }
        if(cien>0){
-           System.out.println(cien + "billete(s) de 100Bs" );
+           System.out.println(cien + " billete(s) de 100Bs" );
         }
         if(cincuen>0){
-            System.out.println(cincuen + "billete(s) de 50Bs" );
+            System.out.println(cincuen + " billete(s) de 50Bs" );
         }
         if(veinte>0){
-            System.out.println(veinte + "billete(s) de 20Bs" );
+            System.out.println(veinte + " billete(s) de 20Bs" );
         }
         if(diez>0){
-            System.out.println(diez + "billete(s) de 10Bs" );
+            System.out.println(diez + " billete(s) de 10Bs" );
         }
         if(cinco>0){
-             System.out.println(cinco + "moneda(s) de 5Bs" );
+             System.out.println(cinco + " moneda(s) de 5Bs" );
         }
         if(dos>0){
-             System.out.println(dos + "moneda(s) de 2Bs" );
+             System.out.println(dos + " moneda(s) de 2Bs" );
         }
         if(uno>0){
-        System.out.println(uno + "moneda(s) de 1Bs" );
+        System.out.println(uno + " moneda(s) de 1Bs" );
         }
         if(cincuentaC>0){
-            System.out.println(cincuentaC + "moneda(s) de 50 centavos" );
+            System.out.println(cincuentaC + " moneda(s) de 50 centavos" );
         }
         if (veinteC>0){
-            System.out.println(veinteC+ "moneda(s) de 20 centavos" );
+            System.out.println(veinteC+ " moneda(s) de 20 centavos" );
         }
-        
         if (diezC>0){
             System.out.println(diezC+ "moneda(s) de 10 centavos" );
         }

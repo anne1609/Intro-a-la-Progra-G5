@@ -1,0 +1,11 @@
+Se pide construir un programa en Java (utilizando funciones) que reciba como entrada un número real que representa una cifra monetaria en Bolivianos y devuelva como resultado en qué cortes monetarios (billetes y monedas) se puede desglosar la cifra (considerando los máximos cortes), como se muestra en el siguiente ejemplo:
+
+Ej:
+Entrada: 345.9
+Salida:
+1 billete(s) de 200 Bs.
+1 billete(s) de 100 Bs.
+2 billete(s) de 20 Bs.
+1 moneda(s) de 5 Bs.
+1 moneda(s) de 50 centavos.
+2 moneda(s) de 20 centavos.

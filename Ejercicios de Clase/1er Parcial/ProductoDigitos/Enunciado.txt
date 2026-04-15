@@ -1,0 +1,5 @@
+Leer un número entero que tenga como mínimo 3 dígitos y calcular el producto de todos sus dígitos. Luego, mostrar el producto obtenido.
+
+Entrada: N = 223
+
+Salida: El producto de sus dígitos es 12

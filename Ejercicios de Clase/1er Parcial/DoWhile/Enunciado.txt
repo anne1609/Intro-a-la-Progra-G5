@@ -1,0 +1,2 @@
+ El usuario debe digitar un número entre (1-5), si no es así volver a pedir que lo ingrese en este rango.
+(resolverlo con un do while)

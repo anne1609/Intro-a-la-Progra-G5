@@ -1,0 +1,37 @@
+Se tiene el siguiente programa en Java:
+
+import java.util.*;
+clas Ejemplo
+{
+    static int funcion(int n)
+    {
+        int p = n + 1;
+        while (!funcion1(p))
+            p += 1;
+        return p;
+    };
+
+    static bolean funcion1(int p1)
+    {
+        bolean esp = true;
+        for (int d = 2; d <= p1 - 1; d++)
+        {
+            if (p1 % d == 0)
+                esp = false;
+        }
+        Return esp;
+    }
+
+    public static void main (String arg [])
+    {
+        Scanner LT = new Scanner(System.in);
+        int n;
+        System.out.println ("INGRESE UN NUMERO: ");
+        n = LT.nextInt();
+        System.out.println ("El resultado es: " + funcion(n));
+    }
+}
+
+a) Identificar y corregir todos los problemas. 
+b) ¿Qué hace el programa? 
+c) Construir un programa equivalente (que haga lo mismo) utilizando solo la función principal (main). 
