@@ -6,9 +6,9 @@ public class PiramideAsteriscos
        Scanner sc= new Scanner(System.in);
        System.out.println("Introduce el numero de filas: ");
        int filas = sc.nextInt();
-       dibujarCuadrado(filas);
+       dibujarPiramide(filas);
   }
-  static void dibujarCuadrado(int filas){
+  static void dibujarPiramide(int filas){
       for(int i=0;i<filas;i++){
          for(int j=0; j<=i;j++){
              System.out.print("*");

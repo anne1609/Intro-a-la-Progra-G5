@@ -1,0 +1,5 @@
+Leer un número entero que tenga como mínimo 3 dígitos y calcular la suma de todos sus dígitos. Luego, mostrar la suma obtenida.
+
+Entrada: N = 1234
+
+Salida: La suma de dígitos es 10

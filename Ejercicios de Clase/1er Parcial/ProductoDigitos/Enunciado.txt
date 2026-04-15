@@ -2,4 +2,4 @@ Leer un número entero que tenga como mínimo 3 dígitos y calcular el producto 
 
 Entrada: N = 223
 
-Salida: El producto de sus dígitos es 12
+Salida: El producto de digitos es 12
