@@ -13,7 +13,7 @@ public class Ejer1v1
       double promedio=calcularPromedio(lunes, martes, miercoles,jueves,viernes,  sabado,  domingo);
       System.out.println("El promedio es: "+ promedio);
       int cont= calcularDiasEncima(lunes, martes, miercoles,jueves,viernes,  sabado,  domingo, promedio);
-      System.out.println("Son"+ cont + "dias que estan encima del promedio");
+      System.out.println("Son "+ cont + " dias que estan encima del promedio");
       double mayor= calcularLaMasAltaTemp(lunes, martes, miercoles,jueves,viernes,  sabado,  domingo);
       System.out.println("El mayor es: "+ mayor);
       double menor = calcularLaMasBajaTemp(lunes, martes, miercoles,jueves,viernes,  sabado,  domingo);
