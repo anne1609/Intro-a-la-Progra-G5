@@ -1,0 +1,7 @@
+Se realizaron ejercicios utilizando arreglos, entre ellos:
+-Llenado de un arreglo con números enteros consecutivos.
+-Cálculo de la suma de los elementos de un arreglo.
+-Búsqueda de un elemento dentro de un arreglo.
+-Recepción de un arreglo como argumento y conteo de las ocurrencias de los números 5, 6, 7, 8 y 9.
+-Impresión de resultados.
+-Uso del método `main` para la ejecución del programa.
