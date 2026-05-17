@@ -1,0 +1,9 @@
+Construir la clase Bolsa que realice lo siguiente:
+Se tiene una bolsa de números enteros, estas bolsas tienen las mismas características que los conjuntos convencionales pero la diferencia está en que aceptan elementos repetidos.
+Las operaciones que se permiten sobre estas bolsas son:
+• Creación de una bolsa. [10 puntos]
+• Visualización de una bolsa. [5 puntos]
+• Verificar si un elemento pertenece a una bolsa. [10 puntos]
+• Añadir un elemento a la bolsa. [5 puntos]
+• Eliminar un elemento de la bolsa. [10 puntos]
+Construir una clase que implemente todas estas operaciones sobre bolsas. Considerar que cada bolsa tiene como máximo 30 elementos y por lo tanto la unión de dos bolsas podría tener hasta 60 elementos.
