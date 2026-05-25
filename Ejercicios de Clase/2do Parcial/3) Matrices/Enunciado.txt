@@ -1,0 +1,3 @@
+Matrices
+Llenar la matriz con valores consecutivos de izquierda a derecha
+Recorrer la misma matriz ya llenada, de abajo hacia arriba
