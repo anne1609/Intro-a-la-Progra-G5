@@ -83,7 +83,6 @@ public class Fifa {
         do {
             System.out.print("Nombre del pais: ");
             nombre = sc.nextLine();
-
             existe = existePais(nombre);
 
             if (existe==true) {
@@ -119,6 +118,7 @@ public class Fifa {
     public void mostrarPaises() {
       if (indice>0) {
         for (int i = 0; i < indice; i++) {
+            System.out.println(i+1+".");
             mostrarPais(i);
         }
        }else{
@@ -127,7 +127,6 @@ public class Fifa {
     }
     //en el sgte solo se muestra un solo pais, dada una posicion
     public void mostrarPais(int pos){
-        System.out.println("-----------------------------------------" );
         System.out.println("Nombre del pais: " + nombres[pos]);
         System.out.println("Cantidad de futbolistas: " + futbolistas[pos]);
         System.out.println("Color de camiseta: " + colores[pos]);
@@ -184,12 +183,13 @@ public class Fifa {
       Fifa.anadirPais();
       int pos=Fifa.buscarPais("Bolivia");
       if(pos!=-1){
-          Fifa.mostrarPais(pos);
+          System.out.println("El pais si esta registrado:");
       }else{
           System.out.println("No se encontro ese pais");
       }
       Fifa.paisAntiguo();
       Fifa.eliminarPais("Bolivia");
+      System.out.println("Paises despues de la eliminacion:");
       Fifa.mostrarPaises();
     }
     
