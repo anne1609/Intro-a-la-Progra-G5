@@ -183,7 +183,7 @@ public class Fifa {
       Fifa.anadirPais();
       int pos=Fifa.buscarPais("Bolivia");
       if(pos!=-1){
-          System.out.println("El pais si esta registrado:");
+          System.out.println("El pais buscado si esta registrado");
       }else{
           System.out.println("No se encontro ese pais");
       }
