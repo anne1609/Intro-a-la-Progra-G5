@@ -173,6 +173,15 @@ public class Fifa {
                 presidentes[i] = presidentes[i + 1];
             }
             indice--;
+            /*Solo si quisieras limpiar lo q queda duplicado al final puedes descomentar este fragmento,
+             sino es sufi tambien con decrementar el indice
+              
+               nombres[indice] = null;
+               futbolistas[indice] = 0;
+               colores[indice] = null;
+               anios[indice] = 0;
+               presidentes[indice] = null;*/
+               
             System.out.println("Pais eliminado correctamente.");
         }
     }
